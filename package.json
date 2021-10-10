@@ -1,0 +1,24 @@
+{
+  "name": "twig-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx mocha ./group.test.js",
+    "start": "node start.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mitegvg/twig-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mitegvg/twig-test/issues"
+  },
+  "homepage": "https://github.com/mitegvg/twig-test#readme",
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^9.1.2"
+  }
+}
